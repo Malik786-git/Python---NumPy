@@ -1,0 +1,15 @@
+Creating virtual env for NumPy
+>python -m venv .venv
+
+
+Activate v env 
+> venv\Scripts\Activate.ps1
+
+
+Installing jupyterLab
+>pip install   jupyterlab
+
+*execute
+>jupyter lab
+
+
