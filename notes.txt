@@ -9,6 +9,11 @@ Activate v env
 Installing jupyterLab
 >pip install   jupyterlab
 
+Installing NumPy
+>pip install   numpy
+
+Installing Pandas
+>pip install   pandas
 *execute
 >jupyter lab
 
